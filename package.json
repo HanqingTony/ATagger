@@ -1,0 +1,27 @@
+{
+  "name": "atagger",
+  "version": "0.0.1",
+  "description": "a tag based file manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HanqingTony/ATagger.git"
+  },
+  "keywords": [
+    "tag",
+    "file",
+    "manager",
+    "resource",
+    "manager",
+    "tagger"
+  ],
+  "author": "HanqingTony",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HanqingTony/ATagger/issues"
+  },
+  "homepage": "https://github.com/HanqingTony/ATagger#readme"
+}
